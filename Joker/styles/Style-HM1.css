@@ -1,0 +1,17 @@
+div {
+    background-color:black;
+    border: 5px solid black;
+    color:white
+        ;
+    width:500px;
+    height:500px;
+    background-position-x:right;
+    background-position-y:center;
+    text-align:center;
+    margin-right: 700px;
+    margin-top: 300px;
+}
+
+h1 {font-family:Aharoni;
+    font-size:180px;
+}
